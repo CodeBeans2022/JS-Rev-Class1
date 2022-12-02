@@ -20,4 +20,5 @@ form input, body {
 
 button:hover{
 background-color: blueviolet;
+transition: 5s;
 }
